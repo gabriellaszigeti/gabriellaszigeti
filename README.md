@@ -6,7 +6,7 @@
 
 <h4>- 🔭 I’m currently learning at Codecool Budapest Full-Stack development course </h4>
 <h4>- 🥅 2021/2022 Goals: find a job as a developer </h4>
-<h4>- ⚡ Fun fact: in my freetime I play the bass and I love PRG-s </h4>
+<h4>- ⚡ Fun fact: in my freetime I play the bass and I love RPG-s </h4>
 
 ---
 
