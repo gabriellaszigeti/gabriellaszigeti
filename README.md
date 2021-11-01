@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently learning at Codecool Budapest Full-Stack development course
-- 🥅 2021/2022 Goals: start working as a developer
-- ⚡ Fun fact: in my freetime I play the bass and I love PRG-s
+<h4>- 🔭 I’m currently learning at Codecool Budapest Full-Stack development course </h4>
+<h4>- 🥅 2021/2022 Goals: start working as a developer </h4>
+<h4>- ⚡ Fun fact: in my freetime I play the bass and I love PRG-s </h4>
 
 ---
 
-  :envelope_with_arrow:	You can find me on : 
+<h4>  :envelope_with_arrow:	You can find me on : </h4>
 
    [![Facebook][1.2]][1]  [![LinkedIn][2.2]][2]
 
