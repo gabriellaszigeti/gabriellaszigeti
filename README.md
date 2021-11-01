@@ -58,4 +58,4 @@
 
 ## Codewars statistics
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=habadab&card&customcolor=bg:192030:192030_text:78CFE7_logo:2a295b_stroke:f75402)
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=habadab&card&customcolor=bg:191b27:191b27_text:00c0b1_logo:2a295b_stroke:f75402)
