@@ -5,7 +5,8 @@
 
 
 - 🔭 I’m currently learning at Codecool Budapest Full-Stack development course
-- ⚡ Fun fact: in my freetime I love to play the bass and to play RPG-s
+- 🥅 2021/2022 Goals: start working as a developer
+- ⚡ Fun fact: in my freetime I play the bass and I love PRG-s
 
 ---
 
