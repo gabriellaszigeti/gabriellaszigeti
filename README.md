@@ -52,6 +52,10 @@
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![intellij](	https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellaszigeti&include_all_commits=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellaszigeti&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Github statistics
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gabriellaszigeti&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellaszigeti&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Codewars statistics
+
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=habadab&card&customcolor=bg:192030:192030_text:78CFE7_logo:2a295b_stroke:f75402)
