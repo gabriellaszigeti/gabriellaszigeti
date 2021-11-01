@@ -1,27 +1,26 @@
 <div align="center">
   <h2> Hi there 👋 My name is Gabi Szigeti ✨ </h2> 
-  
   </div><br/>
 
 
 
-- 🔭 I’m currently learning at Codecool Budapest 
+- 🔭 I’m currently learning at Codecool Budapest Full-Stack development course
 - ⚡ Fun fact: in my freetime I love to play the bass and to play RPG-s
 
 ---
 
   :envelope_with_arrow:	You can find me on : 
 
-   [![Gmail][1.2]][1]  [![LinkedIn][2.2]][2]
+   [![Facebook][1.2]][1]  [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
-[1.2]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[1.2]: 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- Links to your social media accounts -->
 
-[1]: gmail
+[1]: https://www.facebook.com/gabraka/
 [2]: https://www.linkedin.com/in/gabriella-szigeti-0b7a3313a/
 
 ## Tech stack
@@ -38,6 +37,7 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![materialui](	https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### Database 
 ![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
