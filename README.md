@@ -26,6 +26,7 @@
 
 ## Tech stack
 
+
 ### Backend
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -59,4 +60,4 @@
 
 ## Codewars statistics
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=habadab&card&customcolor=bg:191b27:191b27_text:00c0b1_logo:2a295b_stroke:f75402)
+![CodeWars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=habadab&card&customcolor=bg:191b27:191b27_text:00c0b1_logo:2a295b_stroke:f75402)
