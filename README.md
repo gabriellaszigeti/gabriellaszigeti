@@ -1,6 +1,6 @@
 <div align="center">
-  <h2> Hi there 👋 my name is Gabi ✨ </h2> 
-  </div><br/>
+<h2> Hi there 👋 my name is Gabi ✨ </h2> 
+</div><br/>
 
 
 
