@@ -4,8 +4,9 @@
 
 
 
-<h4>- 🔭 I'm a freshly graduated Full Stack developer from Codecool Budapest.</h4>
-<h4>- ⚡ Fun fact: in my freetime I usually play the bass and I also love to play RPG-s </h4>
+<h4>- 🔭 I'm a freshly graduated Full Stack developer from Codecool Budapest</h4>
+<h4>- 🌱 My plans to learn in 2022: VueJs, Angular, Unity</h4>
+<h4>- ⚡ Fun fact: in my freetime I like to play the bass and I play RPG-s </h4>
 
 ---
 
