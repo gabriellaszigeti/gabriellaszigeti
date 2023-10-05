@@ -4,9 +4,11 @@
 
 
 
-<h4>- 🔭 I'm a freshly graduated Full Stack developer from Codecool Budapest</h4>
+<h4>- 🔭 I'm working as a Full Stack Developer in Hungary</h4>
 <h4>- 🌱 Stacks I am currently working with: React, Typescript, NestJs 🌱</h4>
-<h4>- ⚡ Fun fact: in my freetime I like to play the bass and I play RPG-s </h4>
+<h4>- ⚡ Fun fact: in my freetime I do pilates, lot of hiking, and I play RPG-s </h4>
+<h4>- 🌱 I also have 4 cats, hopefully a doggo will join the crew too asap</h4>
+
 
 ---
 
