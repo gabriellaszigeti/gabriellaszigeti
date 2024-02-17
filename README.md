@@ -4,10 +4,10 @@
 
 
 
-<h4>- 🔭 I'm a Full Stack Developer from Hungary</h4>
-<h4>- 🌱 stacks I currently work with: ReactJS, Typescript, NestJS 🌱</h4>
-<h4>- ⚡ Fun facts: in my freetime I enjoy doing pilates, go hiking, and I also play RPG-s. One of my favorites is Baldurs Gate 3 </h4>
-<h4>- ⚡ Goals for 2024: strenghten my C# knowledge, get deeper knowledge of VueJS </h4>
+<h4>- 🔭 I'm a full stack developer currently located in Budapest, Hungary</h4>
+<h4>- 🌱 I currently work with: VueJS, ReactJS, Typescript, NestJS 🌱</h4>
+<h4>- ⚡ In my freetime I enjoy doing pilates, go hiking, and I also play RPG-s. One of my favorites is Baldurs Gate 3 </h4>
+<h4>- ⚡ Goals for 2024: learn as much  as I can </h4>
 
 
 
