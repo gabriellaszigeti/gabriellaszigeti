@@ -5,9 +5,8 @@
 
 
 <h4>- 🔭 I'm a full stack developer currently located in Hamar, Norway</h4>
-<h4>- 🌱 lately I work with: VueJS, ReactJS, Typescript, NestJS </h4>
-<h4>- ⚡ In my freetime I enjoy doing pilates, being in the nature and playing RPG-s. One of my favorites is Baldurs Gate 3 </h4>
-<h4>- ⚡ Goals for 2024: learn as much  as I can </h4>
+<h4>- 🌱 Stacks I work with: VueJS, ReactJS, Typescript, NestJS </h4>
+
 
 
 
